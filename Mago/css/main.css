@@ -1,0 +1,261 @@
+@font-face{
+    src: url(../fonts/Sacramento/Sacramento-Regular.ttf);
+    font-family: "devil";
+}
+@font-face{
+    src: url(../fonts/Merriweather/Merriweather-Regular.ttf);
+    font-family: "cute";
+}
+@font-face{
+    src: url(../fonts/Montserrat/Montserrat-Medium.ttf);
+    font-family: "so cute";
+}
+
+.Title{
+    font-family: "devil";
+    text-align: center;
+    line-height: 70px;
+    background: rgb(127,255,245);
+    color: salmon;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom:0%;
+    font-size: 50px;
+    
+
+}
+h5{
+    font-size: 50px;
+    color: salmon;
+}
+#picture{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+
+}
+
+#img-ulap{
+    margin-top: 100px;
+    margin-right: 100px;
+}
+#img-cloud{
+    margin-top: 30px;
+}
+#img-u{
+    margin-right: 150px;
+}
+#img-p{
+    margin-right: 100px;
+    margin-top: 100px;
+}
+#img-bundok{
+    margin-bottom:200px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 0px;
+    width: normal;
+    height: normal;
+}
+.Body{
+    font-family: "cute";
+    text-align: center;
+    border: red;
+    background: skyblue;
+    padding: 20px;
+  
+}
+#cloud{
+    margin-bottom: 0px;
+}
+#ulap{
+    margin-bottom: 0px;
+}
+#langit{
+    margin-top: 100px;
+}
+p{
+    font-family: "so cute";
+    font-size: 14px;
+  
+}
+#hello{
+    color: rgb(190, 19, 48);
+    font-size: 40px;
+    
+}
+h2{
+    color:black;
+    font-family: "cute";
+}
+h2{
+    color:black;
+    font-family: "cute";
+}
+
+.skills{
+    text-align: center;
+    font-family: "cute";
+    background: skyblue;
+    padding: 20px;
+    font-size: 20px;
+    
+}
+#img-browser{
+    height: 100px;
+}
+
+p{
+    font-family: "so cute";
+    font-size: 14px;
+}
+#MySkills{
+    color: rgb(190, 19, 48);
+    font-size: 40px;
+}
+#content{
+    color: black;
+    font-size: 14px;
+}
+.Dance{
+    text-align: center;
+    font-family: "cute";
+    background: skyblue;
+    padding: 20px;
+   
+}
+
+.Music{
+    text-align: center;
+    font-family: "cute";
+    background: skyblue;
+    padding: 20px;
+  
+}
+
+#mountain{
+    height:100px;
+}
+#content{
+    font-family: "so cute";
+    font-size: 14px;
+}
+#music{
+    color: rgb(190, 19, 48);
+    font-size: 40px;
+}
+p{
+    font-family: "so cute";
+}
+.playing{
+    text-align: center;
+    font-family: "cute";
+    background: skyblue;
+    padding: 20px;
+   
+}
+#bundok{
+    height:100px;
+}
+p{
+    font-family: "so cute";
+    font-size: 14px;
+}
+#like{
+    color: rgb(190, 19, 48);
+    font-size: 40px;
+}
+.Touch{
+    text-align: center;
+    font-family: "cute";
+    background: skyblue;
+    padding: 20px;
+    
+}
+.Talent{
+    text-align: center;
+    font-family: "cute";
+    background: skyblue;
+    padding: 20px;
+    
+}
+#icon{
+    height:100px;
+}
+#content{
+    font-family: "so cute";
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+#greet{
+    color: rgb(190, 19, 48);
+    font-size: 40px;
+}
+.Button{
+    text-align: center;
+    font-family: "cute";
+    padding: 5px;
+    color: plum;
+    background: skyblue;
+    padding: 20px;
+   
+}
+button{
+    padding: 5px;
+    background-color: rgb(235, 130, 148);
+    margin-bottom: 30px;
+}
+
+.Link{
+    text-align: center;
+    background:plum;
+    font-size: 20px;
+    
+ 
+}
+
+.footer{
+    text-align: center;
+    background-color: rgb(127,255,245);
+    text-align: center;
+    padding: 50px;
+    padding-bottom: 0px;
+    color:azure;
+    font-size: 50px;
+    
+}
+
+d:hover{
+    text-decoration: none;
+    font-family: "cute";
+    color: white;
+    font-weight: bolder;
+
+}
+c:hover{
+    text-decoration: none;
+    font-family: "cute";
+    color: white;
+    font-weight: bolder;
+
+}
+e:hover{
+    text-decoration: none;
+    color: white;
+    font-family: "cute";
+    font-weight: bolder;
+
+}
+#foot:hover{
+    text-decoration: none;
+    color: white;
+    font-family: "cute";
+    font-weight: bolder;
+}
+
+
+
+
+
+
